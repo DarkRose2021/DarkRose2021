@@ -1,12 +1,12 @@
-- Hi, I’m Katie King
-- 
--I’m interested in learning all types of programming languages
+Hi, I’m Kathrine (Katie) King 
 
--I’m currently learning Java
+- I’m interested in learning all types of programming languages
 
--Ive got a lot/some knowledge on HTML. CSS, Python,
+- I’m currently learning Java
 
--How to reach me katiek2128@gmail.com or on Discord with DarkRose#1028
+- I have experience in HTML, CSS, Python
+
+You can reach me at katiek2128@gmail.com or on Discord with DarkRose#6857
 
 <!---
 DarkRose2021/DarkRose2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
