@@ -4,7 +4,7 @@ Hi, I’m Kathrine (Katie) King
 
 - I have experience in HTML, CSS, Python
 
-- Ive used Android Studios, Intelij, VSC, Visual Studio
+- I've used Android Studios, Intelij, VSC, Visual Studio
 
 <!---
 DarkRose2021/DarkRose2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
