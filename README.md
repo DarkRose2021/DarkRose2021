@@ -2,7 +2,7 @@ Hi, I’m Kathrine (Katie) King
 
 - I’m interested in learning all types of programming languages
 
-- I have experience in HTML, CSS, Python
+- I have experience in ReactJS, Angular, SCSS, Python, C#, & Java
 
 - I've used Android Studios, Intelij, VSC, Visual Studio
 
