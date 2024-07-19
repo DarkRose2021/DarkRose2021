@@ -13,7 +13,7 @@
 
 <h3 align="left">Frameworks:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,sass,angular,express,flutter,nodejs,react&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,sass,angular,express,flutter,nodejs,react,nextjs&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Other:</h3>
 
